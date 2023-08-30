@@ -17,7 +17,7 @@ Without analyzing the competition, it is difficult for a business to survive. Yo
 [![Insights1.png](https://i.postimg.cc/rpyngZyD/Insights1.png)](https://postimg.cc/VJTWkRCw)
 [![Insights2.png](https://i.postimg.cc/bw9VxfPX/Insights2.png)](https://postimg.cc/G49jRN9z)
 [![Insights3.png](https://i.postimg.cc/9QhNwFvt/Insights3.png)](https://postimg.cc/ZCwL1ZYC)
-Watch the complete Dashboard video [Link](https://youtu.be/15DMbCgMUsc)
+Watch the complete Dashboard video [Link](https://youtu.be/I2gnefwWFgY)
 
 ## ✔️ Conclusion
 1.The correlation coefficient of 0.62 suggests that there is a positive relationship between market capitalization and sales.
